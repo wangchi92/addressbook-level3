@@ -44,9 +44,14 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | new user | see usage instructions | refer to instructions when I forget how to use the App
 `* * *` | user | add a new person |
 `* * *` | user | delete a person | remove entries that I no longer need
+`* * *` | user | edit a person | update a person's particulars when necessary 
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
+`* *` | new user | import another address book into current list | move all my contacts from my other/previous device into this system
+`* *` | user of multiple devices | sync the address book across multiple devices | access/edit the address book on each device
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | user that needs a few contacts very frequently | "favorite" my most accessed contacts | access my most frequently used contacts easily
+`*` | user | label and find persons with tags | access certain groups of people easily
 
 
 ## Appendix B : Use Cases
